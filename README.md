@@ -1,5 +1,8 @@
 # Horiseon-Refractor
-The first challenge in my fullstack bootcamp
+
+## Description
+The first challenge in my fullstack bootcamp. This project involved changing the source code of a website for a fictitious internet technology company "Horiseon". 
+The source code was refractored to make it more accessible and optimized for search engines. Alot of arbitrary classes and selectors were consolidated to make the source code more approachable.
 
 ## User Story
 
@@ -37,5 +40,19 @@ THEN I find a concise, descriptive title
 > * Text has been altered to be more legible to a wider audience
 > * HTML has been modernized and better organized
 > * Proper commentary has been made to HTML and CSS
+
+## Installation
+1.Obtain the git clone link, or download the zip at https://github.com/DeviousDoge/Horiseon-Refractor
+
+2.Clone the files to a newly made directory on your local system. 
+
+3.Open index.html and style.css in VScode
+
+4.Install the 'open in browser' plugin in VScode and right click 'open in default browser' while viewing index.html in vscode to view the finished product from the source code. Alternatively, you can 'open with' your browser in your newly created local directory. 
+
+## Credits
+Freddie Kwak: Helped with the Readme and the span HTML tag. github: https://github.com/fredkk22/Module-1-Challenge
+Frequently used reference for semantic HTML tags: https://www.freecodecamp.org/news/semantic-html5-elements/
+
 
 
