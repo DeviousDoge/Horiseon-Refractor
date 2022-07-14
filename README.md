@@ -50,8 +50,11 @@ THEN I find a concise, descriptive title
 
 4.Install the 'open in browser' plugin in VScode and right click 'open in default browser' while viewing index.html in vscode to view the finished product from the source code. Alternatively, you can 'open with' your browser in your newly created local directory. 
 
+5.If you only intend to view the finished product on your prefered browser, visit this link: https://deviousdoge.github.io/Horiseon-Refractor/
+
 ## Credits
 Freddie Kwak: Helped with the Readme and the span HTML tag. github: https://github.com/fredkk22/Module-1-Challenge
+
 Frequently used reference for semantic HTML tags: https://www.freecodecamp.org/news/semantic-html5-elements/
 
 
